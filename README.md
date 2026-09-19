@@ -36,6 +36,8 @@ Analysis of 616 World Cup team records from 1930 to 2022, using pre-tournament f
 | Random Forest | 0.81 | 0.74 | 0.76 | 0.75 |
 | Logistic Regression | 0.82 | 0.83 | 0.67 | 0.74 |
 
+Pairing predictions with teams reveals the model predicts toward mid table: every actual winner is predicted between 4.9 and 6.2, showing a case of regression to the mean.
+
 Random forest outperformed linear regression on every regression metric, suggesting non-linear relationships a straight-line fit can't capture. The two classifiers trade off against each other — logistic regression is more precise, random forest catches more actual qualifiers.
 
 Group stage goal difference dominated feature importance (0.23), followed by goals scored and conceded. Continent features contributed almost nothing, all below 0.014.
