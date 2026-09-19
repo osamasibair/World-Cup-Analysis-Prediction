@@ -51,6 +51,4 @@ Group stage goal difference dominated feature importance (0.23), followed by goa
 
 Requires Python 3 with jupyter, pandas, numpy, matplotlib, seaborn and scikit-learn.
 
-```
-jupyter notebook WorldCup_Analysis_Classification.ipynb
-```
+Clone the repository and open `WorldCup_Analysis_Classification.ipynb` in VS Code or Jupyter Notebook.
