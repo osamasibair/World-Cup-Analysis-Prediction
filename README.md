@@ -1,4 +1,4 @@
-# World Cup Performance Analysis & Classification
+# World Cup Performance Analysis & Prediction
 
 Analysis of 616 World Cup team records from 1930 to 2022, using pre-tournament form and group stage results to predict final finishing position and classify which teams reach the quarter-finals.
 
@@ -53,4 +53,4 @@ Group stage goal difference dominated feature importance (0.23), followed by goa
 
 Requires Python 3 with jupyter, pandas, numpy, matplotlib, seaborn and scikit-learn.
 
-Clone the repository and open `WorldCup_Analysis_Classification.ipynb` in VS Code or Jupyter Notebook.
+Clone the repository and open `World Cup Performance Analysis & Prediction.ipynb` in VS Code or Jupyter Notebook.
